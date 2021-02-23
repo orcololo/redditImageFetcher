@@ -1,0 +1,20 @@
+"filename", "language", "Markdown", "Python", "pip requirements", "comment", "blank", "total"
+"/home/orcola/redditImageFetcher/README.md", "Markdown", 2, 0, 0, 0, 1, 3
+"/home/orcola/redditImageFetcher/discord_wrapper/__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/discord_wrapper/commands.py", "Python", 0, 1, 0, 0, 2, 3
+"/home/orcola/redditImageFetcher/discord_wrapper/discord_utils.py", "Python", 0, 18, 0, 0, 10, 28
+"/home/orcola/redditImageFetcher/main.py", "Python", 0, 7, 0, 0, 5, 12
+"/home/orcola/redditImageFetcher/requirements.txt", "pip requirements", 0, 0, 28, 0, 1, 29
+"/home/orcola/redditImageFetcher/telegram_wrapper/__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/utils/__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/utils/checks/__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/utils/checks/dir_checker.py", "Python", 0, 21, 0, 0, 3, 24
+"/home/orcola/redditImageFetcher/utils/checks/filter.py", "Python", 0, 19, 0, 0, 5, 24
+"/home/orcola/redditImageFetcher/utils/checks/submissions_check.py", "Python", 0, 11, 0, 0, 1, 12
+"/home/orcola/redditImageFetcher/utils/organize/__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/utils/organize/file_watcher.py", "Python", 0, 28, 0, 2, 11, 41
+"/home/orcola/redditImageFetcher/utils/organize/organize.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/utils/reddit_helper/__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"/home/orcola/redditImageFetcher/utils/reddit_helper/fetcher.py", "Python", 0, 29, 0, 0, 8, 37
+"/home/orcola/redditImageFetcher/utils/reddit_helper/reddit.py", "Python", 0, 9, 0, 0, 3, 12
+"Total", "-", 2, 143, 28, 2, 57, 232
